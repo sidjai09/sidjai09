@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth Jaiswal
 - 
-- 📫 E-mail me on pro.user.sod@gmail.com
+- 📫 E-mail me on pro.user.sid@gmail.com
 
 <!---
 sidjai09/sidjai09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
